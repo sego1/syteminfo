@@ -1,36 +1,36 @@
 
 Nombre de host:                            
 Nombre del sistema operativo:              Microsoft Windows 10 Pro Education
-Versi¢n del sistema operativo:             10.0.17763 N/D Compilaci¢n 17763
+VersiÂ¢n del sistema operativo:             10.0.17763 N/D CompilaciÂ¢n 17763
 Fabricante del sistema operativo:          Microsoft Corporation
-Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
-Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+ConfiguraciÂ¢n del sistema operativo:       EstaciÂ¢n de trabajo independiente
+Tipo de compilaciÂ¢n del sistema operativo: Multiprocessor Free
 Propiedad de:                              
-Organizaci¢n registrada:                   
+OrganizaciÂ¢n registrada:                   
 Id. del producto:                          00378-60400-63639-AA821
-Fecha de instalaci¢n original:             31/05/2019, 14:10:33
+Fecha de instalaciÂ¢n original:             31/05/2019, 14:10:33
 Tiempo de arranque del sistema:            18/09/2019, 8:45:58
 Fabricante del sistema:                    HP
 Modelo el sistema:                         HP ProDesk 600 G2 MT
 Tipo de sistema:                           x64-based PC
 Procesador(es):                            1 Procesadores instalados.
                                            [01]: Intel64 Family 6 Model 94 Stepping 3 GenuineIntel ~3312 Mhz
-Versi¢n del BIOS:                          HP N02 Ver. 02.14, 30/05/2016
+VersiÂ¢n del BIOS:                          HP N02 Ver. 02.14, 30/05/2016
 Directorio de Windows:                     C:\Windows
 Directorio de sistema:                     C:\Windows\system32
 Dispositivo de arranque:                   \Device\HarddiskVolume2
-Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
-Idioma de entrada:                         es;Espa¤ol (tradicional)
-Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, Par¡s
-Cantidad total de memoria f¡sica:          16.265 MB
-Memoria f¡sica disponible:                 11.301 MB
-Memoria virtual: tama¤o m ximo:            18.697 MB
+ConfiguraciÂ¢n regional del sistema:        es;EspaÂ¤ol (internacional)
+Idioma de entrada:                         es;EspaÂ¤ol (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, ParÂ¡s
+Cantidad total de memoria fÂ¡sica:          16.265 MB
+Memoria fÂ¡sica disponible:                 11.301 MB
+Memoria virtual: tamaÂ¤o mÂ ximo:            18.697 MB
 Memoria virtual: disponible:               13.383 MB
 Memoria virtual: en uso:                   5.314 MB
-Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+UbicaciÂ¢n(es) de archivo de paginaciÂ¢n:    C:\pagefile.sys
 Dominio:                                   
-Servidor de inicio de sesi¢n:              
-Revisi¢n(es):                              11 revisi¢n(es) instaladas.
+Servidor de inicio de sesiÂ¢n:              
+RevisiÂ¢n(es):                              11 revisiÂ¢n(es) instaladas.
                                            [01]: KB4514358
                                            [02]: KB4486153
                                            [03]: KB4486161
@@ -44,19 +44,19 @@ Revisi¢n(es):                              11 revisi¢n(es) instaladas.
                                            [11]: KB4512578
 Tarjeta(s) de red:                         2 Tarjetas de interfaz de red instaladas.
                                            [01]: Intel(R) Ethernet Connection (2) I219-LM
-                                                 Nombre de conexi¢n: Ethernet
-                                                 DHCP habilitado:    S¡
+                                                 Nombre de conexiÂ¢n: Ethernet
+                                                 DHCP habilitado:    SÂ¡
                                                  Servidor DHCP:      192.168.0.1
                                                  Direcciones IP
                                                  [01]: 192.168.0.21
                                                  [02]: fe80::1022:a391:540b:6651
                                            [02]: VirtualBox Host-Only Ethernet Adapter
-                                                 Nombre de conexi¢n: VirtualBox Host-Only Network
+                                                 Nombre de conexiÂ¢n: VirtualBox Host-Only Network
                                                  DHCP habilitado:    No
                                                  Direcciones IP
                                                  [01]: 192.168.56.1
                                                  [02]: fe80::f88f:244d:d4ca:5c13
-Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
-                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
-                                           Traducci¢n de direcciones de segundo nivel: S¡
-                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: SÂ¡
+                                           Se habilitÂ¢ la virtualizaciÂ¢n en el firmware: SÂ¡
+                                           TraducciÂ¢n de direcciones de segundo nivel: SÂ¡
+                                           La prevenciÂ¢n de ejecuciÂ¢n de datos estÂ  disponible: SÂ¡
